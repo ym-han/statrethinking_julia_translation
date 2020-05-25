@@ -1,0 +1,16 @@
+name = "problems_chp_3_4"
+uuid = "3f4d856c-8849-4e8a-a041-e5652b4dcb17"
+authors = ["ymh <hanyongming@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+PrettyPrint = "8162dcfd-2161-5ef2-ae6c-7681170c5f98"
+Queryverse = "612083be-0b0f-5412-89c1-4e7c75506a58"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
+TuringModels = "ead7e11d-4ba5-55c3-9d74-177ea73ef1fd"
+VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
